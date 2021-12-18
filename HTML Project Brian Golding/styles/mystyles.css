@@ -1,0 +1,24 @@
+/* Last edited 12/17/21 at 10:24 pm */
+.center{
+    text-align:center;
+}
+
+.title{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration :underline;
+}
+
+.picture{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+h5{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h6{
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+}
+
